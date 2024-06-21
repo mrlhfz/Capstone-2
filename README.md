@@ -1,2 +1,2 @@
 # Capstone-2
-A personal blog for users to journal or rant, whichever suits you.
+A personal blog for user to journal or rant, whichever suits him.
